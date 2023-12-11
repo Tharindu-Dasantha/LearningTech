@@ -1,0 +1,5 @@
+# Human Activity Recognition
+
+## Problem Statement
+
+The human activity recognition project is one of the most exciting Pandas and NumPy projects. In this project, you will use machine learning multiclass classification methods to evaluate a fitness dataset from a smartphone tracker. Use the Human Activity Recognition with Smartphones dataset from Kaggle. The initial step in this project is to import the essential libraries, such as NumPy, Pandas, etc.  Next, load the CSV file from the training dataset using the Pandas module. Start working with the NumPy library to process the numerical data values. Additionally, you will implement Deep Neural Networks, including Logistic Regression, SVM, Random Forest Regressor, XGBoost, KNN, and other Deep Neural Networks in this project. If you are looking for some exciting NumPy and Pandas projects, this is the perfect choice for you.
